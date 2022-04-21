@@ -1,0 +1,34 @@
+body{
+    background-color: #ed2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}  
+
+.zona-arrastre{
+    padding: 50px;
+    border: 4px dashed #999;
+    max-width: 500px;
+    color: rgb(41, 34, 244);
+    text-align: center;
+    margin: auto;
+    margin-top: 30px; 
+
+}
+.descripcion {
+    color:rgb(41, 34, 244);
+    margin: auto;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+
+}
+img {
+    max-width: 300px;
+    max-height: 500px;
+    min-width: 300px;
+    min-height: 500px;
+    margin: 20px;
+    border: 2px dashed #000 
+}

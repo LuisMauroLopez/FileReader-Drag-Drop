@@ -1,0 +1,1 @@
+{"nombre":"pedro","casa":"verde","edad":20}
